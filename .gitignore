@@ -1,0 +1,6 @@
+venv/
+.env
+google-sheets-api.json
+__pycache__/
+.pytest_cache/
+*.pyc

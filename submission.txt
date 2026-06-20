@@ -1,0 +1,11 @@
+# Menjalankan skrip ETL pipeline
+py main.py
+
+# Menjalankan unit test pada folder tests
+py -m pytest tests
+
+# Menjalankan test coverage pada folder tests
+py -m pytest tests --cov=utils --cov-report=term-missing
+
+# URL Google Sheets:
+https://docs.google.com/spreadsheets/d/1bY7wXNPfnqYhu4rDpOhQZ1bJmd945XWSFnb8CqbJFOg/edit
