@@ -2,6 +2,9 @@
 
 Submission Dicoding: Belajar Fundamental Pemrosesan Data
 
+## Achievment
+**Final Submission:** ⭐⭐⭐⭐
+
 ## Deskripsi
 
 Project ini melakukan web scraping data produk fashion dari [Fashion Studio](https://fashion-studio.dicoding.dev), membersihkan datanya, lalu menyimpannya ke 3 repositori: CSV, Google Sheets, dan PostgreSQL.
