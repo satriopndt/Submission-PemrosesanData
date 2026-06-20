@@ -2,8 +2,8 @@
 
 Submission Dicoding: Belajar Fundamental Pemrosesan Data
 
-## Achievment
-**Final Submission:** ⭐⭐⭐⭐
+## Achievments 🏆
+- **Final Submission:** ⭐⭐⭐⭐
 
 ## Deskripsi
 
